@@ -26,7 +26,7 @@ web_view.setWindowIcon(QIcon( sys.path[0] +'/'+'icon.png'))
 # Make sure there is a taskbar icon on Windows
 if sys.platform == "win32":
     import ctypes
-    myappid = 'FIND_THE_KEY_GAME'
+    myappid = 'HUNT_AND_PECK'
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(myappid)
 
 # Show the browser window
