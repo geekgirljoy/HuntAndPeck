@@ -33,4 +33,14 @@ The game will test your ability to find and remember the placement of keys on a 
 
 Let's get hunting and pecking!
 
+### How to Run the Game:
+
+Run the file: [HuntAndPeck.pyw](HuntAndPeck.pyw)
+
+### Requiremets:
+[Python](https://www.python.org/downloads/)
+
+[PyQt5](https://pypi.org/project/PyQt5/) - __pip install PyQt5__
+
+### Licence:
 [MIT LICENCE](LICENSE)
