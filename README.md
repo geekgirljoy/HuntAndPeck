@@ -5,7 +5,7 @@ Hunt And Peck is a game that I wrote to help my son learn the placement of the k
 
 The game utilizes PyQt and a "web-view" to load an offline HTML, CSS, and JavaScript game/application.
 
-Objective:
+### Objective:
 The objective of the game is simple: you will be prompted to press a selected key on your keyboard within a time limit. Your task is to accurately press the correct key before the timer reaches zero.
 
 As soon as the game starts, a timer bar will appear on the screen, displaying the remaining time in seconds. The initial value of the timer will be set to 15. You must press the correct key before the timer ticks down to zero.
@@ -14,9 +14,9 @@ There are options to include different key types such as uppercase, lowercase, n
 
 ## Key Types:
 * **Uppercase Letter Keys:** ABCDEFGHIJKLMNOPQRSTUVWXYZ
-* Lowercase Letter Keys: abcdefghijklmnopqrstuvwxyz
-* Number Keys: 0123456789
-* Symbol Keys: ~!@#$%^&*()_+{}|:<>?`-=[];',./
+* **Lowercase Letter Keys:** abcdefghijklmnopqrstuvwxyz
+* **Number Keys:** 0123456789
+* **Symbol Keys:** ~!@#$%^&*()_+{}|:<>?`-=[];',./
 
 ### How the game works:
 
@@ -42,3 +42,8 @@ Run the file: [HuntAndPeck.pyw](HuntAndPeck.pyw)
 
 ### Licence:
 [MIT LICENCE](LICENSE)
+
+### Bonus Game
+I hid a fun little puzzle/easter egg/math conversion problem in the preview image but... you have to find it, solve it and then reveal the "hidden secret message".
+
+OHHHHh intriguing, what could it BEE? Surely, I'll never tell... but... *BASED* on my decoder ring you'll have a *hex* of a time figuring it out! :-P
